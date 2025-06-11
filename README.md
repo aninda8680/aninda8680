@@ -7,7 +7,7 @@
 <p align="center">
   🔭 I’m currently working on …<br>
   🌱 I’m learning …<br>
-  📫 How to reach me: <a href="mailto:you@example.com">you@example.com</a><br>
+  📫 How to reach me: <a href="mailto:anindadebta8680@gmail.com">anindadebta8680@gmail.com</a><br>
   ⚡ Fun fact: …
 </p>
 
