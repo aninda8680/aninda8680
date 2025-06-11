@@ -46,7 +46,7 @@
 
 ## 🐍 Contribution Snake
 
-```html
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aninda8680/aninda8680/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/aninda8680/aninda8680/blob/output/github-contribution-grid-snake.svg" />
