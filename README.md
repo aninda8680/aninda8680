@@ -11,9 +11,9 @@
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** Building scalable web applications and AI-powered solutions
-- 🌱 **Learning:** Advanced React patterns, Cloud Architecture, and Machine Learning
-- 💬 **Ask me about:** JavaScript, Python, React, Node.js, or anything tech-related
-- 📫 **Reach me at:** [aninda@example.com](mailto:aninda@example.com)
+- 🌱 **Learning:** DART, Python
+- 💬 **Ask me about:** Leave it, answer dene ka mood nhi hai..!
+- 📫 **Reach me at:** [anindadebta8680@gmail.com](mailto:anindadebta8680@gmail.com)
 - ⚡ **Fun fact:** I debug code faster with coffee than without! ☕
 
 <br clear="right"/>
