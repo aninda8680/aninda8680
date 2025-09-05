@@ -2,18 +2,17 @@
 
 <div align="center">
 
-  
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** Building scalable web applications .
+- 🔭 **Currently working on:** Building scalable web applications.
 - 🌱 **Learning:** DART, Python
 - 💬 **Ask me about:** Leave it, answer dene ka mood nhi hai..!
 - 📫 **Reach me at:** [anindadebta8680@gmail.com](mailto:anindadebta8680@gmail.com)
-- ⚡ **Fun fact:** Sometimes I dont able to understand my own codes..! ☕
+- ⚡ **Fun fact:** Sometimes I don't understand my own codes..! ☕
 
 <br clear="right"/>
 
@@ -24,7 +23,6 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aninda01/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anindadebta8680@gmail.com)
 
 </div>
@@ -48,9 +46,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Tools & Others
@@ -111,7 +112,6 @@
 </picture>
 
 </div>
-
 
 ---
 
