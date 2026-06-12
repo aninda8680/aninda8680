@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** Building scalable web applications.
-- 🌱 **Learning:** DART, Python
+- 🌱 **Learning:** DART, Python, JS
 - 💬 **Ask me about:** Leave it, answer dene ka mood nhi hai..!
 - 📫 **Reach me at:** [anindadebta8680@gmail.com](mailto:anindadebta8680@gmail.com)
 - ⚡ **Fun fact:** Sometimes I don't understand my own codes..! ☕
