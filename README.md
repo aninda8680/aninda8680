@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0d1117&height=200&section=header&text=Aninda&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" alt="Aninda banner" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Building+scalable+web+%26+mobile+apps;Flutter+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping)](https://github.com/aninda8680)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aninda01/)
